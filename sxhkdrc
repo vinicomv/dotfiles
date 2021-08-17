@@ -1,0 +1,17 @@
+# Basic binds to start programs
+alt + shift + d
+	discord
+alt + v
+	VirtualBox
+alt + shift + p
+	pavucontrol
+alt + r
+	st -e ranger
+alt + shift + c
+	st -e calcurse
+alt + s
+	steam
+alt + w
+	brave
+alt + shift + w
+	chromium
